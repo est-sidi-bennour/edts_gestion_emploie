@@ -1,6 +1,6 @@
   
 
-<h1 align="center" >   ⭐    Ayoub ELkhaddari   || Maroun Benchike  ⭐</h1>
+<h1 align="center" >   ⭐    Ayoub ELkhaddari   || Maroun BENCHIEKH  ⭐</h1>
 <p align="center"> 
   </p>
 
@@ -8,12 +8,11 @@
 
 <h1 align="center" >   ✨ Comment Ca marche  ✨</h1>
 <p align="center">
-  <img   src="https://i.imgur.com/9QCjrjH.png" /> 
 
 <h1 align="center" >   ⭐  admin page  ⭐</h1>
 
 ##  🚀 Dashbord page 
-  <img align="center" src="https://i.imgur.com/zlqjbmy.jpg" alt="demo"/>
+  <img align="center" src="https://i.imgur.com/nhRi6AX.jpg" alt="demo"/>
   
 ## 🚀 Ajoute des Professeurs
 
