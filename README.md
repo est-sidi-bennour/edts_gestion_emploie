@@ -5,7 +5,7 @@
   </p>
   <h1 align="center" >
   
-  [you can watch the video comment ca marche cet applction from here ](https://youtu.be/2dptGWTSDnM)
+  [you can watch the video how it's work this application from here ](https://youtu.be/2dptGWTSDnM)
 
 </h1>
 
