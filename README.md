@@ -7,9 +7,9 @@
 
 
 <h1 align="center" >   ✨ Comment Ca marche  ✨</h1>
+
 <p align="center">
 
-<h1 align="center" >   ⭐  admin page  ⭐</h1>
 
 ##  🚀 Dashbord page 
   <img align="center" src="https://i.imgur.com/nhRi6AX.jpg" alt="demo"/>
