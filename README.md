@@ -3,7 +3,10 @@
 <h1 align="center" >   ⭐    Ayoub ELkhaddari   || Maroun BENCHIEKH  ⭐</h1>
 <p align="center"> 
   </p>
-  <h1 align="center" >  <a herf="http://localhost:3000/admin/AddProfs" > you can watch the video comment ca marche cet applction from here </a> </h1>
+  
+  
+  [you can watch the video comment ca marche cet applction from here ](https://youtu.be/2dptGWTSDnM)
+
 
 <h1 align="center" >   ✨ Comment Ca marche  ✨</h1>
 
