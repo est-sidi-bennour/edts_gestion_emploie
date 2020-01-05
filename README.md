@@ -44,55 +44,23 @@
 ## 🚀 Gestion des Professeurs
 
 
-<img  align="center" src="https://i.imgur.com/k1qoCbU.jpg" alt="demo"/>
+<img  align="center" src="https://i.imgur.com/nhRi6AX.jpg" alt="demo"/>
 
 ## 🚀 Gestion des matiere
      
-  <img  align="center" src="https://i.imgur.com/UfIIHrJ.jpg"/>
+  <img  align="center" src="https://i.imgur.com/fpB1qkZ.jpg"/>
   
 ##   🚀 Gestion d'Emploie
 
 
-  <img   align="center" src="https://i.imgur.com/zBNfTJI.jpg" alt="demo"/>
+  <img   align="center" src="https://i.imgur.com/VpDeO4u.jpg" alt="demo"/>
 
 
 <h1 align="center" >   ⭐  professeur page  ⭐</h1>
 
-  <img   align="center" src="https://i.imgur.com/aHza198.jpg" alt="demo"/>
-  <img   align="center" src="https://i.imgur.com/vVKpLUO.jpg" alt="demo"/>
+  <img   align="center" src="https://i.imgur.com/IAQJJBw.jpg" alt="demo"/>
 
 </p>
-
-## 🚀 Usage
-
-Make sure you have [npm and nodejs]
-
-1-  run the commend 
-
-```sh
-composer install
-```
-
-2 - Create a database for your site , open ``` .env ```, edit the database configuration information, and run 
-
-```sh
-php artisan key:generate
-```
-
-3 - migrate database :
-
-```sh
-un php artisan migrate --seed
-```
-
-4 -install package.json  :
-
-```sh
-npm install
-```
-you can send me a massge if project dosent work with you
-
-
 
 
 ---
