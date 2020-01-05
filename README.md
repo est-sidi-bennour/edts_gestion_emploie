@@ -3,9 +3,8 @@
 <h1 align="center" >   ⭐    Ayoub ELkhaddari   || Maroun BENCHIEKH  ⭐</h1>
 <p align="center"> 
   </p>
-  <script>
-<iframe width="1519" height="562" src="https://www.youtube.com/embed/2dptGWTSDnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  </script>
+  <h1 align="center" >  <a herf="http://localhost:3000/admin/AddProfs" > you can watch the video comment ca marche cet applction from here </a> </h1>
+
 <h1 align="center" >   ✨ Comment Ca marche  ✨</h1>
 
 <p align="center">
